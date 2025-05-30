@@ -1,0 +1,1 @@
+print( "👋 Hello World "  " 👩🏻‍💻 Myself  VANI SAI DEEPIKA \n"  " 📅 Signing in for the Day 1 of  30-Day Python Challenge 🚀\n"  "💡 Code.✅ Commit.🔁 Repeat. That's how progress is made.🔥\n" )
