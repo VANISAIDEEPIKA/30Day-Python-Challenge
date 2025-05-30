@@ -49,9 +49,7 @@ This challenge pushes me out of my comfort zone daily, teaching me the tried-and
 
 ---
 
-## ⚡ Let’s keep hustling and hacking, one line of code at a time!  
-
-> The future belongs to those who learn and build, day by day. — VSD
+## ⚡ The future belongs to those who learn and build, day by day. — VSD
 
 ---
 
