@@ -24,7 +24,7 @@ Hey there! 👋 I'm **Vani Sai Deepika**, a 3rd-year CSE student on a mission to
 
 ## 📚 What I’m Learning
 
-| Day  | Topic                          | Challenge Example                               |
+| Day  | Topic                          | 🎯Challenge                              |
 |-------|-------------------------------|------------------------------------------------|
 | Day 1 | Python Basics                  | Hello World + Print Name                         |
 | Day 2 | Variables & Data Types         | Calculate area of rectangle                       |
