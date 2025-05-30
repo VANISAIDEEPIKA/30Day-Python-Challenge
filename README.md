@@ -44,7 +44,7 @@ This challenge pushes me out of my comfort zone daily, teaching me the tried-and
 
 ## 💡 Connect with Me
  
-- LinkedIn: [linkedin.com/in/vanisaideepika](https://linkedin.com/in/vanisaideepika)  
+- LinkedIn: [Vani Sai Deepika](https://www.linkedin.com/in/vani-sai-deepika-7b29b62bb) 
 - Twitter/X: [@deepika22740](https://x.com/deepika22740)
 
 ---
