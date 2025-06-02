@@ -29,8 +29,10 @@ Hey there! 👋 I'm **Vani Sai Deepika**, a 3rd-year CSE student on a mission to
 | Day 1 | Python Basics                  | Hello World + Print Name                         |
 | Day 2 | Variables & Data Types         | Calculate area of rectangle                       |
 | Day 3 | Lists, Tuples & Dictionaries   | Inventory system with dictionary                 |
-| Day 4 | Control Structures            | Check if a number is prime                        |
-| ...   | ...                           | ...                                              |
+| Day 4 | Control Structures             | Check if a number is prime                        |
+| Day 5 | Functions & Functional Flow    |   Built a function that computes the sum and average of a list of numbers |
+| Day 6 | Modules and Packages           |    Generate a random 8-character password          |
+| ..... | ...............                |...........................                         |
 
 *(Full roadmap and resources available [here](https://www.notion.so/30DaysOfPython-202efbc5b4ff80c89a5ce4a8bf070134?pvs=21))*  
 
