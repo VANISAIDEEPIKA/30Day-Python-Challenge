@@ -15,8 +15,7 @@ Hey there! 👋 I'm **Vani Sai Deepika**, a 3rd-year CSE student on a mission to
 
 ## 🛠️ How I'm Owning It
 
-- Completing daily topics & challenges  
-- Tracking progress in an Excel sheet: `30_days_Python_VaniSaiDeepika.xlsx`  
+- Completing daily topics & challenges    
 - Sharing my journey on social platforms with hashtags #30DaysOfPython & #IDC30DaysChallenge  
 - Learning with the community and mentors @IDC  
 
