@@ -62,7 +62,7 @@ Hey there! 👋 I'm **Vani Sai Deepika**, a 3rd-year CSE student on a mission to
 
 
 
-*(Full roadmap and resources available [here](https://www.notion.so/30DaysOfPython-202efbc5b4ff80c89a5ce4a8bf070134?pvs=21))*  
+*(Full roadmap and resources available [here](https://indiandataclub.notion.site/30DaysOfPython-1f9a16c0422f8074bf29eee315a6802a))*  
 
 ---
 
